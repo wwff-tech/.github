@@ -4,9 +4,13 @@ TODO:
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+For years I have published stuff under my personal account or through various orgs. I feel that now is the right time to start building my own castle.
+
+The software you find here will be things I have some stake in; either I talk about it, write about it, or perhaps even sell something that it goes with.
+
+You are welcome to submit code, but please pay attention to the licencing on each repo as they may differ.
+
+Documentation will be coming soon and will be linked here.
+
+Fun fact: I have crewed for various bands including pet shop boys, cheeky girls and bowling for soup.
 
