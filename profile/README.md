@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-TODO:
-
-**Here are some ideas to get you started:**
 
 For years I have published stuff under my personal account or through various orgs. I feel that now is the right time to start building my own castle.
 
