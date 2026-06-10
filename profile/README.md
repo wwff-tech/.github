@@ -1,15 +1,18 @@
-## Hi there 👋
+# wwff-tech
 
+Agentic infrastructure, open source.
 
-For years I have published stuff under my personal account or through various orgs. I feel that now is the right time to start building my own castle.
+Built by [Mike Preston](https://github.com/Darkflib), author of
+[*System Patterns for Agentic Architectures*](https://wwff.tech/).
 
-The software you find here will be things I have some stake in; either I talk about it, write about it, or perhaps even sell something that it goes with.
+## Core Projects
 
-You are welcome to submit code, but please pay attention to the licencing on each repo as they may differ.
+**[Mnemon](https://github.com/wwff-tech/mnemon)** — Persistent memory layer for
+agentic workflows. Python API + HTTP MCP server, no cloud dependencies, no LLM
+calls at runtime. Acts as a shared memory bridge across Claude Code agents,
+Cowork, and agentic systems.
 
-Documentation will be coming soon and will be linked here.
+## Services
 
-Fun fact: I have crewed for various bands including pet shop boys, cheeky girls and bowling for soup.
-
-  -- Mike (DarkFlib)
-
+Fixed-scope architecture reviews of agentic systems, available through
+[wwff.tech/review](https://wwff.tech/review). <!-- assumed path — confirm once offer page is live -->
